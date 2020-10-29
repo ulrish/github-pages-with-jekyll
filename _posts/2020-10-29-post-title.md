@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2020-10-29
 ---
 ### h3 headibng
 
